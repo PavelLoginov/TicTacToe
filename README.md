@@ -12,7 +12,7 @@ This project was written using only:
 
 ### Available on gh-pages:
 
-https://l1ght0.github.io/TicTacToe/
+https://pavelloginov.github.io/TicTacToe/
 
 ### Screenshots:
 
